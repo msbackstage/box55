@@ -1,0 +1,8 @@
+site_name: "Box55"
+site_description: "alphadevbox"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
